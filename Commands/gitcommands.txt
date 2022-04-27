@@ -1,0 +1,9 @@
+git clone https://github.com/MounikaJ5577/TalendJobs.git
+cd TalendJobs/
+git status
+git add .
+git commit -m "adding Day1 talend jobs"
+git config --global user.email "Mounikaj5577@gmail.com"
+git config --global user.name "Mounikaj5577"
+git commit -m "adding Day1 talend jobs"
+git push -u origin
